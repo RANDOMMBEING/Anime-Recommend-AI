@@ -1,0 +1,8 @@
+Utilities placeholder
+
+Marks the `utils/` directory. Intended for helper functions, shared utilities and linters/scripts.
+
+Examples:
+- logging helpers
+- data transformation utils
+- CI scripts
