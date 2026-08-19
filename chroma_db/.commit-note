@@ -1,0 +1,8 @@
+Chroma DB placeholder
+
+Marks the `chroma_db/` directory used for local vector store or embeddings persistence.
+
+Notes:
+- Store only small DB metadata or config in git.
+- Keep raw DB files out of version control; use backups or mount points.
+- Include instructions to rebuild or download the DB in docs or data manifests.
