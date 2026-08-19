@@ -1,0 +1,7 @@
+Images placeholder
+
+Marks the `imgs/` directory for screenshots, diagrams, and sample image assets.
+
+Notes:
+- Keep large images out of git; use optimized thumbnails or external storage.
+- Use descriptive filenames and an index if storing many images.
