@@ -27,32 +27,6 @@ Built with the modern AI engineer's toolkit:
 
 ---
 
-## Code Structure
-
-Our repository is organized into distinct modules for frontend, pipeline, and core logic:
-
-```bash
-Anime_Evals-main/
-├── app/                    # Streamlit Web Application
-│   ├── app.py              # Main dashboard script
-│   └── app2.py             # Advanced UI components
-├── pipeline/               # RAG Pipeline Orchestration
-│   ├── build_pipeline.py   # Factory for building LLM chains
-│   └── pipeline.py         # Main execution logic
-├── src/                    # Core Intelligence
-│   ├── recommender.py     # Main recommendation engine
-│   ├── evaluation.py      # LLM-as-a-Judge logic
-│   ├── vector_store.py    # ChromaDB integration
-│   └── prompt_template.py # Master prompt repository
-├── DOCS/                   # In-depth Documentation
-├── data/                   # Raw Anime Datasets
-├── chroma_db/              # Local Vector Storage
-├── Dockefile               # Container specification
-└── llmops-k8s.yaml        # Kubernetes deployment
-```
-
----
-
 ## System Architecture
 
 Our RAG-based architecture ensures that recommendations are grounded in actual anime data, preventing "hallucinations" and providing relevant context.
@@ -161,13 +135,13 @@ Building with LLMs can often feel like working inside a dark room. You send a pr
 
 Hungry for more? We have extensive documentation covering every aspect of this project.
 
-You'll find in-depth docs here: [DOCS/](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS)
+You'll find in-depth docs here: [docs/](/docs)
 
 ### Navigation Guide:
-- **[Architecture Overview](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/01_introduction_and_architecture.md)**: How the gears turn.
-- **[Evaluation Framework](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/03_evaluation_framework.md)**: How we measure quality.
-- **[Observability Details](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/04_observability_and_tracing.md)**: Deep dive into LangSmith integration.
-- **[Deployment Guide](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/09-CLOUD%20DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
+- **[Architecture Overview](file:///docs/01_introduction_and_architecture.md)**: How the gears turn.
+- **[Evaluation Framework](file:///docs/Anime_Evals-main/DOCS/03_evaluation_framework.md)**: How we measure quality.
+- **[Observability Details](file:///docs/04_observability_and_tracing.md)**: Deep dive into LangSmith integration.
+- **[Deployment Guide](file:///docs/09-CLOUD%20DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
 
 ---
 *Made with love for the Anime Community.*
