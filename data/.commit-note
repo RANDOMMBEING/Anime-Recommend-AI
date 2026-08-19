@@ -1,0 +1,7 @@
+Data folder placeholder
+
+This placeholder marks the `data/` directory where datasets, ingestion scripts, and data schemas will reside. Keep large raw datasets out of git — use pointers or downloads instead.
+
+- dataset manifests
+- sample CSV/JSON
+- data preprocessing notes
