@@ -1,0 +1,8 @@
+Configuration placeholder
+
+This file marks the `config/` directory and contains notes about environment and configuration management.
+
+Suggested contents:
+- environment templates (.env.example)
+- YAML/JSON config files
+- secrets handling notes
