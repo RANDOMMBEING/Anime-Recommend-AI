@@ -1,0 +1,8 @@
+Pipeline scaffold note
+
+This placeholder marks the `pipeline/` folder for data ingestion, preprocessing and training orchestration steps.
+
+Planned contents:
+- data preprocessing scripts
+- training orchestration
+- evaluation and CI hooks
