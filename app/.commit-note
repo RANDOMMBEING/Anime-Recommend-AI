@@ -1,0 +1,9 @@
+Scaffold note for app folder
+
+This placeholder file marks a commit for the `app/` folder. It outlines the intended main application components and startup flow.
+
+- Main server / entrypoint
+- Routes / API handlers
+- Templates or frontend integration
+
+Replace this placeholder with concrete files when ready.
