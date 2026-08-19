@@ -1,0 +1,9 @@
+Scaffold note for src folder
+
+This placeholder marks a commit for the `src/` package. Intended contents:
+
+- core modules
+- package __init__ and exports
+- module-level documentation and typing
+
+Use this to group source-level changes instead of committing every file separately.
