@@ -1,4 +1,4 @@
-# 🌸 AniBaba: AI Anime Recommender
+# 🌸 AniRecym: AI Anime Recommender
 ### *RAG, Evaluation & Observability at Scale*
 
 Hey there! 👋 Welcome to **AniBaba**, my AI-powered anime recommendation engine. 
