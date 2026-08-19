@@ -1,0 +1,7 @@
+Models grouping placeholder
+
+This file indicates that model-related files are grouped under `src/models/`. Avoid creating separate commits for each model artifact; use a grouped commit when updating model code.
+
+- Model definitions
+- Model utilities
+- Serialization / checkpoints notes
